@@ -22,3 +22,9 @@ f)	Clicking on the logo should redirect users to the dashboard published on Tabl
 g)	Display Average and Trend Lines where required.
 
 h)	Find the dashboard logo and filters logo attached below.
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/579bca25-167d-4c37-96fb-7787046edba2)
+
+
