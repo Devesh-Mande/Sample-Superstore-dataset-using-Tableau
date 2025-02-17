@@ -1,4 +1,4 @@
-# Sample-Superstore-dataset-using-Tableau
+# Sample-Superstore-Dashboard-using-Tableau
 
 "🚀 Built an interactive Tableau dashboard using the Sample Superstore dataset! This dashboard includes dynamic metric selection, interactive filters, KPI cards, and action-driven insights. Check out the repository for details! 📊✨"
 
